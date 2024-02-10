@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
+
+
+
+
+
+.fortnite-years{
+    display: flex;
+    justify-content: center;
+    font-family: Rubik;
+}
+.fortnite-footer{
+    margin-top: 200px;
+}
+.text-pickaxe{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;    
+    font-family: Rubik;
+}
+.text-skin{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    font-family: Rubik;
+}
+.skins{
+display: flex;
+justify-content: center;
+gap: 50px;
+}
+.skin-veronika{
+    width: 250px;
+    height: 220px;
+}
+.skin-zlotka{
+    width: 250px;
+    height: 220px;
+}
+.skin-vv{
+    width: 250px;
+    height: 220px;
+}
+.img-lodolamacz{
+    width: 250px;
+    height: 220px;
+}
+.img-gwiazdka{
+    width: 250px;
+    height: 220px;
+
+}
+.pickaxes{ 
+    gap: 50px;
+    display: flex;
+    justify-content: center;
+}
+.brawl-years{
+    display: flex;
+    justify-content: center;
+    font-family: Rubik;
+}
+.mini-text{
+    display: flex;
+    justify-content: center;
+    gap: 140px;
+
+}
+.mini{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.knockout-text{
+    font-family: Rubik;
+}
+.showdown-text{
+    font-family: Rubik;
+}
+.knockout-img{
+    width: 250px;
+    height: 220px;
+    
+}
+.showdown-img{
+    width: 250px;
+    height: 220px;
+
+}
+
+.mini-games{
+    justify-content: center;
+    display: flex;
+    font-family: Rubik;
+}
+.brawl-img{
+    display: flex;
+    justify-content: space-around;
+}
+.bea{
+    
+    width: 250px;
+    height: 220px;
+}
+.piper{
+    width: 250px;
+    height: 220px;
+}
+.edgar{
+    width: 250px;
+    height: 220px;
+}
+.brawlers{
+    font-family: Rubik;
+    display: flex;
+    justify-content: center;
+}
+.back{
+    font-family: Rubik;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.back:hover{
+    color: rgb(255, 255, 255);
+}
+.hello,.site{ 
+    font-family: Rubik;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+margin: 0 auto;
+}
+.footer-brawl{
+    margin-top: 200px;
+    background-color: darkgray;
+}
+footer{
+        margin-top: 500px;
+    background-color: darkgray;}
+header{
+    height: 100px;
+    background-color: darkgray;
+}
+.brawl{
+    margin-left: 20px;
+}
+.fortnite{
+    margin-left: 600px;
+}
+.eafc{
+margin-left: 550px;
+}
+
+.brawl,.fortnite{
+    
+    width: 90px;
+    height: 90px;
+}
+.eafc{
+    width: 140px;
+    height: 90px;  
+}
